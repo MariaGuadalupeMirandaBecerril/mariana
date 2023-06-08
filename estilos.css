@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(200, 160, 238);
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin:5px;
+    padding:25px;
+    background-color: rgb(247, 247, 219);
+    border-radius:3px;
+    width: 285px;
+    height: 600px;
+}
+
+label{
+    margin-bottom: 10px;
+    align-self: auto;
+}
+
+input {
+    width: 150px;
+    padding: 10px;
+    border: 1px solid rgb(145, 180, 245);
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 85px;
+    padding: 8px;
+    background-color: hotpink;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 10px;
+}
